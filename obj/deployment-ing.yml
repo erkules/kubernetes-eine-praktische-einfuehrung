@@ -1,0 +1,14 @@
+apiVersion: extensions/v1beta1
+kind:       Ingress
+metadata:
+  name: www
+spec:
+  rules:
+  - host: meineapp.erkmerk.de
+    http:
+      paths:
+      - path: /
+        backend:
+          serviceName: www 
+          servicePort:  80
+

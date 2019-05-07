@@ -1,11 +1,14 @@
-
-
 # Kubernetes
 
 Eine praktische Einführung
 
 # Ich
 
+twitter: @erkuleswastaken
+xing/linkedin auch
+https://devops-training.de/
+https://devops-kubernetes-camp.de/
+...
 # Wieso Weshalb Warum?
 
 * Orchestrierung?
@@ -27,8 +30,6 @@ Was bekommen Container
 * Deklarativ (CI/CD)
 * Lifecycle
 * Anzahl der Rechner?
-
-
 
 # Namespaces
 
@@ -72,8 +73,6 @@ kubectl apply -f obj/deployment.yml
 ~~~
 
 * Skalieren
-* Service Discovery VIP
-* Service Discovery DNS
 
 # Services
 

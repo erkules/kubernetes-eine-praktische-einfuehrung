@@ -4,6 +4,7 @@ Eine praktische Einführung
 
 # Ich
 
+erkan@linsenraum.de
 twitter: @erkuleswastaken
 xing/linkedin auch
 https://devops-training.de/
